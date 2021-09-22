@@ -8,3 +8,6 @@ El índice es el archivo index.html
 ## Hacemos referencia a React
 javascript
  lajdlksjkadhfksjdhfkjdhfdkjshfdksfh
+
+
+Añadimos una linea para ver el funcionamiento de los cambios en visual studio code
